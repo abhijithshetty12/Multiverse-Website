@@ -1,4 +1,4 @@
-**Multiverse Website**
+# **Multiverse Website**
 
 This website, titled **Multiverse**, was developed during my **first year of Diploma in Information Technology at Government Polytechnic Mumbai** using **HTML and minimal CSS**. It is a multi-category platform designed to showcase the integration of simple web design concepts with practical content organization.
 
