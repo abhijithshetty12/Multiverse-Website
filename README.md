@@ -17,16 +17,16 @@ A comprehensive, multi-category informational platform developed during my **Dip
       <td align="center"><b>Education</b></td>
     </tr>
     <tr>
-      <td><img src="screenshots/home.png" width="350" alt="Home Page"></td>
-      <td><img src="screenshots/education.png" width="350" alt="Education Page"></td>
+      <td><img src="screenshots/home.png" alt="Home Page"></td>
+      <td><img src="screenshots/education.png" alt="Education Page"></td>
     </tr>
     <tr>
       <td align="center"><b>Entertainment</b></td>
       <td align="center"><b>Shopping</b></td>
     </tr>
     <tr>
-      <td><img src="screenshots/entertainment.png" width="350" alt="Entertainment Page"></td>
-      <td><img src="screenshots/shopping.png" width="350" alt="Shopping Page"></td>
+      <td><img src="screenshots/entertainment.png" alt="Entertainment Page"></td>
+      <td><img src="screenshots/shopping.png" alt="Shopping Page"></td>
     </tr>
   </table>
   <p><i>"We start when your limit ends!" — A modular design for content exploration.</i></p>
